@@ -1,4 +1,4 @@
-# Burgers [![Downloads](https://img.shields.io/github/downloads/BlackHawk05/react-burgers/total.svg)]
+# Burgers ![Downloads](https://img.shields.io/github/downloads/BlackHawk05/react-burgers/total.svg)
 
 This is a small burger ordering site.
 Access to the admin panel is configured in the config.js file.
