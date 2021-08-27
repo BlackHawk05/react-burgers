@@ -2,7 +2,6 @@ import React from 'react'
 import 'css/bootstrap.css'
 import 'css/style.css'
 import lang from 'sample.lang'
-import uniqid from 'uniqid'
 import PropTypes from 'prop-types'
 
 class AddBurgerFrom extends React.Component {
@@ -50,9 +49,7 @@ class AddBurgerFrom extends React.Component {
 
   createBurger = (event) => {
     event.preventDefault()
-    //console.log(event.target.value)
     const burger = {
-      id: uniqid(),
       name: this.nameRef.current.value,
       cost: parseFloat(this.costRef.current.value || 0),
       status: this.statusRef.current.value,
