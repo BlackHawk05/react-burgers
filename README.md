@@ -6,7 +6,7 @@ Access to the admin panel is configured in the config.js file.
 
 Firebase is used to store goods.
 
-Thanks for video lesson to [Vasily Muravyev](https://github.com/VasilyMur)
+Thanks for the video lesson to [Vasily Muravyev](https://github.com/VasilyMur)
 
 ## Downloads
 * [Release builds](https://github.com/BlackHawk05/react-burgers/releases)
