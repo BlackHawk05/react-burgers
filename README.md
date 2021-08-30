@@ -1,8 +1,12 @@
 # Burgers ![Downloads](https://img.shields.io/github/downloads/BlackHawk05/react-burgers/total.svg)
 
 This is a small burger ordering site.
+
 Access to the admin panel is configured in the config.js file.
+
 Firebase is used to store goods.
+
+Thanks for video lesson for [Vasily Muravyev](https://github.com/VasilyMur)
 
 ## Downloads
 * [Release builds](https://github.com/BlackHawk05/react-burgers/releases)
